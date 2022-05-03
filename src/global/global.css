@@ -17,3 +17,18 @@ body {
   background-color: #EDF2ED;
   font-family: 'Montserrat', sans-serif;
 }
+
+.container.qualitystatement {
+  border: 1px solid black;
+  background-color: cadetblue;
+}
+
+.image-quality {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.header-quality {
+  font-family: 'Lato', sans-serif;
+  color: red;
+}
