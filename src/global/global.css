@@ -1,3 +1,19 @@
-:root {
-    --app-example-var: black;
+/* colorcodes for this project
+light green:        #EDF2ED;
+light grey:         #E5E6E5;
+
+logo green light:   #A9DD61;
+logo green dark:    #AAC757;
+*/
+
+/* fonts for this project
+Segoe UI
+Montserrat
+Lato
+
+*/
+
+body {
+  background-color: #EDF2ED;
+  font-family: 'Montserrat', sans-serif;
 }
